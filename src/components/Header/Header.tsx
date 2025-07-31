@@ -36,7 +36,7 @@ const Header: React.FC = () => {
           {/* Logo */}
          <Link to="/" className="flex items-center space-x-2 group">
   <img 
-    src="../logo1.png" // Change this path to your actual logo path
+    src="logo1.png" // Change this path to your actual logo path
     alt="Logo"
     className="w-100% h-15 object-contain transform group-hover:scale-105 transition-transform" style={{ height: '60px' }}/>
 </Link>

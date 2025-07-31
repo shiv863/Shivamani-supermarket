@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
             <div className="flex items-center space-x-2">
               <Link to="/" className="flex items-center space-x-2 group">
                 <img 
-                  src="logo2.jpg" // ✅ Update this path as needed
+                  src="src/images/logo2.jpg" // ✅ Update this path as needed
                   alt="Logo"
                   className="h-[60px] object-contain transform group-hover:scale-105 transition-transform"
                 />

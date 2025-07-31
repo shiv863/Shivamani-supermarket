@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mybg{
+    background-color: #1653A4;
+}
+@media (max-width: 640px) {
+  .rect {
+    display: none;
+  }
+}
